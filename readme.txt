@@ -1,13 +1,2 @@
-11111
-22222
-33333
-66666
-77777
-88888
-xxxxxA
-zzzzz
-zzzzz
-wwwww
-qwertyuiop
-asdfghjklq
-zxcvbnmqwe
+aaaaaa
+bbbbbb
