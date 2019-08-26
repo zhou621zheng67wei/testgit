@@ -8,3 +8,4 @@ bendicangku---test
 yuanchengcangku--test
 ce--shi--ok
 测试汉字
+加一个汉字玩玩
